@@ -138,9 +138,8 @@
 
 ---
 
-## 👀 Visitor Count  
-
-![Visitor Count](https://profile-counter.glitch.me/vinayakpatil99/count.svg)
+## 👀 Visitor Count
+![Visitor Count](https://api.countapi.xyz/hit/vinayakpatil99/vinayakprofile)
 
 ---
 
