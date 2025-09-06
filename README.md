@@ -117,10 +117,6 @@
 ---
 ## 📊 GitHub Stats & Activity  
 
-### GitHub Contributions & Languages  
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayakpatil99&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakpatil99&layout=compact&theme=tokyonight&hide=html,css)  
-
 ### 🔥 GitHub Streak & Achievements  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayakpatil99&theme=tokyonight)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinayakpatil99&theme=tokyonight&column=7)  
