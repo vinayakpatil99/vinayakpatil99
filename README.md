@@ -119,8 +119,6 @@
 
 ### 🔥 GitHub Streak & Achievements  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayakpatil99&theme=tokyonight)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinayakpatil99&theme=tokyonight&column=7)  
-
 ### 🧰 Tech Stack Stats  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakpatil99&langs_count=10&theme=tokyonight&layout=compact)  
 **Highlight:** Strong focus on `Java`, `Spring Boot`, `React`, `Python` (AI/ML), `Node.js`, and `MySQL`.  
